@@ -1,0 +1,22 @@
+.box{
+    width: 60%;
+    margin: 5% auto;
+    padding: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    border-radius: 10px;
+    border: 1px solid darkslategrey;
+}
+input.validate:focus + label{
+    color: midnightblue!important;
+
+}
+input.validate:focus{
+    border-bottom: 1px solid midnightblue !important;
+    box-shadow: 0 1px 0 0 midnightblue !important;
+}
+.row{
+    margin-bottom: 0;
+}
+.row .col.s12{
+    margin: 13px 0 0 0;
+}

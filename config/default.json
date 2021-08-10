@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "the best final-project",
+  "URI": "mongodb+srv://tenDiana:123456qwert@cluster0.zgxgv.mongodb.net/cloud?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
